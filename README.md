@@ -1,2 +1,2 @@
 # pcb_design
-my journey of learning to PCB design from scratch through tutorials and projects
+my journey of learning PCB design from scratch through tutorials and projects
